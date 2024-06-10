@@ -1,3 +1,2 @@
 Hello World
-I am noob
 one more line added
